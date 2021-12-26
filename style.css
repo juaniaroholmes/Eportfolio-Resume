@@ -62,11 +62,11 @@ input:hover, textarea:hover {
 }
 
 input:focus, textarea:focus {
-  border-color: #f06449;
+  border-color: #004AAD;
 }
 
 .container {
-  padding: 50px 0;
+  padding: 16px 0;
   width: 100%;
 }
 
@@ -83,7 +83,7 @@ input:focus, textarea:focus {
 }
 
 .click:hover {
-  transform: scale(1.1);
+  transform: scale(1.7);
 }
 
 .click:active {
@@ -98,7 +98,7 @@ input:focus, textarea:focus {
 }
 
 .orange {
-  color: #f06449 !important;
+  color: #004AAD !important;
 }
 
 .link__hover-effect {
@@ -201,7 +201,7 @@ nav,
 }
 
 .social__link {
-  background-color: #f06449;
+  background-color: #004AAD;
   color: white;
   padding: 6px;
   width: 32px;
@@ -283,8 +283,8 @@ nav {
 }
 
 #personal-logo {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   filter: invert(1);
 }
 
@@ -412,8 +412,8 @@ nav {
 }
 
 .form__submit {
-  background-color: #f06449;
-  border: 2px solid #f06449;
+  background-color: #004AAD;
+  border: 2px solid #004AAD;
   color: white;
   font-weight: 700;
   width: 100%;
@@ -429,8 +429,8 @@ nav {
 }
 
 .form__submit:active {
-  border-color: #f06449;
-  color: #f06449;
+  border-color: #004AAD;
+  color: #004AAD;
 }
 
 .modal__overlay {
@@ -579,7 +579,7 @@ footer {
   position: relative;
   background-color: #242424;
   display: flex;
-  padding: 6% 0;
+  padding: 1% 0;
 }
 
 .footer__row {
@@ -589,7 +589,7 @@ footer {
 }
 
 .footer__logo--img {
-  width: 70px;
+  width: 300px;
 }
 
 .footer__social--list {
